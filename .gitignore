@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+env/
+venv/
+
+# Logs
+*.log
+logs.json
+logs/
+
+# Docker
+*.tar
+*.img
+
+# VSCode
+.vscode/
+
+# OS junk
+.DS_Store
+Thumbs.db

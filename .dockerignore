@@ -1,0 +1,22 @@
+# Python caches and virtualenv
+__pycache__/
+*.py[cod]
+env/
+venv/
+
+# Logs
+logs.json
+logs/
+
+# Git
+.git/
+.gitignore
+
+# Docker itself
+Dockerfile
+.dockerignore
+
+# VSCode and OS clutter
+.vscode/
+.DS_Store
+Thumbs.db
